@@ -1,6 +1,7 @@
+# This workflow will install Python dependencies, run tests
+
 name = Python CI
 
-# Trigger the workflow on push or pull request to the main branch
 on:
   push:
     branches: [ main ]
